@@ -1,0 +1,6 @@
+{
+  "patient_id": "12345",
+  "patient_name": "John Nowak",
+  "age": 45,
+  "diagnosis": "test"
+}

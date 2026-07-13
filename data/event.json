@@ -1,0 +1,15 @@
+{
+  "Records": [
+    {
+      "eventSource": "aws:s3",
+      "s3": {
+        "bucket": {
+          "name": "aws-data-pipeline-raw-data-710853720305"
+        },
+        "object": {
+          "key": "input/patient.json"
+        }
+      }
+    }
+  ]
+}
