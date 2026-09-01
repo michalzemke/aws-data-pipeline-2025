@@ -120,7 +120,7 @@ The Lambda function performs the following steps:
 ```json
 {
     "patient_id": "12345",
-    "patient_name": "John Nowal",
+    "patient_name": "John Nowak",
     "age": 40,
     "city": "Warsaw"
 }
