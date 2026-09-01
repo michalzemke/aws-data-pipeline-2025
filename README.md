@@ -283,7 +283,7 @@ patient.json
 # Project Structure
 
 ```
-aws-data-pipeline-cloud-engineer-2025/
+aws-data-pipeline-2025/
 │
 ├── architecture/
 │   └── architecture.png
